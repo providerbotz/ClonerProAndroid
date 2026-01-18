@@ -30,7 +30,7 @@ android {
         
         // Pass website URL to the app via BuildConfig
         buildConfigField "String", "WEBSITE_URL", "\"${websiteUrl}\""
-        buildConfigField "String", "GITHUB_URL", "\"https://github.com/providerbotz"\""
+        buildConfigField "String", "GITHUB_URL", "\"https://github.com/providerbotz\""
         
         // Set app name
         resValue "string", "app_name", "" + appName
