@@ -2,10 +2,6 @@
 Generate native Android WebView apps for any website with a single workflow run, native-feeling Android application.
 
 <br>
-<p align="center">
-  <a href="https://github.com/providerbotz">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Hey%2C+This+Is+Web+%F0%9F%91%8B;To Apk Converter+%7C+Automation+Enthusiast;We+Build+Cool+Codes;Always+learning+Something+New+%F0%9F%94%A5" alt="Typing SVG" />
-  </a>
 
 ## How to Use
 - Fork this **Repository**
