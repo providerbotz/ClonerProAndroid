@@ -102,7 +102,7 @@ Click **Run workflow** and fill in the details:
 
 📂 View all generated APKs here:  
 👉 **Releases / Tags**  
-https://github.com/providerbotz/android-web/tags
+https://github.com/providerbotz/ClonerProAndroid/tags
 
 ---
 
