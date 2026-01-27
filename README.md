@@ -4,7 +4,6 @@
 <h1 align="center">
   <b>  🚀 WebView App Generator </b>
 </h1>
-### Real Android App Generator • Web → APK 
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/providerbotz/ClonerProAndroid?style=for-the-badge">
